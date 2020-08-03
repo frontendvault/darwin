@@ -1,0 +1,1138 @@
+@media only screen and (min-width: 1370px) and (max-width: 1605px) {
+  .container {
+    max-width: 1320px;
+  }
+  .container h1 {
+    font-size: 40px !important;
+  }
+  .container h2 {
+    font-size: 35px !important;
+  }
+  .container h3 {
+    font-size: 30px !important;
+  }
+  .container p {
+    font-size: 18px !important;
+    line-height: 27px;
+  }
+  .main-banner {
+    padding-top: 350px;
+    height: 100vh;
+  }
+  .main-banner h3 {
+    font-size: 32px !important;
+    margin-bottom: 50px;
+  }
+  .main-banner .banner-contact span {
+    font-size: 22px;
+  }
+  .main-banner .enquire-now {
+    padding: 30px;
+  }
+  .main-banner .enquire-now .btn {
+    margin-top: 5px;
+    font-size: 18px;
+  }
+  .main-banner .enquire-now .btn img {
+    width: 20px;
+  }
+  .director-bg .director-box p {
+    font-size: 22px;
+    line-height: 35px;
+  }
+  .director-bg .director-box .director {
+    width: 80%;
+  }
+  .director-info {
+    padding-top: 120px;
+    padding-bottom: 100px;
+  }
+  .director-info p {
+    margin-bottom: 20px !important;
+  }
+  .active-content h4 {
+    font-size: 19px !important;
+    padding-right: 16px;
+  }
+  .active-content h5 {
+    font-size: 18px !important;
+  }
+  .video-blog .blog-events {
+    height: 900px;
+  }
+  .video-blog .blog-events .darwin-events h3 span {
+    font-size: 20px;
+  }
+  .video-blog .blog-events .darwin-events a {
+    font-size: 22px;
+  }
+  .video-blog .blog-events .event-box h4 {
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 500;
+  }
+  .video-blog .blog-events .event-box p {
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px !important;
+  }
+  .video-blog .carousel .active-video {
+    height: 380px;
+  }
+  .infrastructure .infrastructure-info {
+    padding: 30px 15px 20px;
+    background: #fefef3;
+    border-top: 10px solid #fef2b1;
+    border-radius: 20px;
+    height: 300px;
+  }
+  .infrastructure .infrastructure-info img {
+    width: 80px;
+  }
+  .infrastructure .infrastructure-info h6 {
+    font-size: 16px;
+    margin-top: 40px;
+  }
+  .why-darwin {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .why-darwin .darwin-speciality {
+    padding: 28px;
+    margin-bottom: 30px;
+  }
+  .why-darwin .darwin-speciality img {
+    width: 80px;
+  }
+  .why-darwin .darwin-speciality h4 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .why-darwin .darwin-speciality p {
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 22px;
+  }
+  .why-darwin p {
+    margin-bottom: 20px;
+  }
+  .gallery-page .nav {
+    margin-top: 20px;
+  }
+  .gallery-page .nav li {
+    margin-right: 15px;
+  }
+  .gallery-page h3 span {
+    font-size: 19px;
+  }
+  .teacher-darwin {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .teacher-darwin h3 {
+    font-size: 28px !important;
+  }
+  .teacher-darwin p.quote {
+    font-size: 16px !important;
+    line-height: 20px;
+  }
+  .darwin-campus {
+    padding-bottom: 360px;
+    padding-bottom: 230px;
+    background-position: center center;
+  }
+  .mt-custom {
+    margin-top: 0;
+  }
+  .tech-enabled-classes img {
+    max-width: 80%;
+  }
+  .tech-enabled-classes p {
+    margin-top: 20px;
+  }
+  .tech-enabled-classes .benefits-tips h5 {
+    font-size: 26px;
+  }
+  .tech-enabled-classes .benefits-tips .activity-tags .badge {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .safety-features img {
+    width: 110px;
+  }
+  .safety-features h6 {
+    font-size: 19px;
+  }
+  .montessori-section .absolute-right {
+    width: 60%;
+  }
+  .isce-container h3 {
+    margin-bottom: 30px;
+  }
+  .isce-container h4 {
+    font-size: 28px;
+  }
+  .isce-container .button-row {
+    margin-bottom: 50px;
+  }
+  .isce-container .button-row .btn {
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .isce-container .isce-inner-container .isce-box {
+    height: 394px;
+  }
+  .isce-container .isce-inner-container .isce-box h5 {
+    font-size: 22px;
+  }
+  #contact-us ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  #contact-us ul li {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  #contact-us ul li .timing-box {
+    width: auto;
+    height: 110px;
+  }
+  #contact-us ul li .timing-box h6 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  #contact-us ul li .timing-box p {
+    font-size: 14px !important;
+  }
+  #contact-us address {
+    padding: 30px;
+  }
+  .slick-slide img {
+    border-radius: 15px;
+  }
+  #registration .director-box .director {
+    width: 520px;
+  }
+  footer {
+    font-size: 18px;
+  }
+  footer a {
+    line-height: 35px;
+  }
+  .terms {
+    padding: 15px 0;
+  }
+  .terms a {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 30px !important;
+  }
+  h3 {
+    font-size: 28px !important;
+  }
+  p {
+    font-size: 16px !important;
+    line-height: 22px !important;
+  }
+  header .navbar .navbar-nav .nav-item .nav-link {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .main-banner {
+    background-position: bottom right;
+  }
+  .main-banner h3 {
+    font-size: 26px;
+  }
+  .main-banner .banner-contact span {
+    font-size: 20px;
+  }
+  .main-banner .enquire-now {
+    padding: 20px;
+  }
+  .main-banner .enquire-now h4 {
+    font-size: 22px;
+  }
+  .main-banner .enquire-now p {
+    font-size: 14px !important;
+    line-height: 16px;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  .main-banner .enquire-now .btn {
+    margin-top: 0;
+  }
+  .infrastructure {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .infrastructure .infrastructure-info {
+    padding: 15px;
+    background: #f7f7f7;
+    border-radius: 10px;
+    height: 280px;
+  }
+  .infrastructure .infrastructure-info h6 {
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 20px;
+    color: #666;
+  }
+  .infrastructure .infrastructure-info img {
+    width: 80px;
+  }
+  .tech-enabled-classes {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .tech-enabled-classes P {
+    margin-top: 20px;
+  }
+  .tech-enabled-classes .activity-tags .badge {
+    font-size: 20px;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .tech-enabled-classes h5 {
+    font-size: 24px !important;
+  }
+  .director-bg .director-box {
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .director-bg .director-box .director {
+    width: 70%;
+    bottom: -62px;
+  }
+  .darwin-campus {
+    background-position: center center;
+    padding-bottom: 200px;
+  }
+  .mt-custom {
+    margin-top: 0;
+  }
+  .teacher-darwin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .director-info {
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+  .director-info p {
+    margin-bottom: 20px !important;
+  }
+  .why-darwin {
+    padding-top: 80px;
+  }
+  .why-darwin p {
+    margin-bottom: 20px;
+  }
+  .why-darwin .first-box-mt {
+    margin-top: 0;
+  }
+  .why-darwin .darwin-speciality {
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .why-darwin .darwin-speciality img {
+    width: 100px;
+  }
+  .why-darwin .darwin-speciality h4 {
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .why-darwin .darwin-speciality p {
+    font-weight: 400;
+  }
+  .video-blog .carousel .active-video {
+    height: 300px;
+  }
+  .video-blog .blog-events {
+    padding: 20px;
+    height: 600px;
+  }
+  .video-blog .blog-events .event-box h4 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .video-blog .blog-events .darwin-events h3 span {
+    font-size: 18px;
+  }
+  .gallery-page {
+    margin-top: 50px;
+  }
+  .gallery-page .nav li {
+    margin-right: 15px;
+  }
+  .slick-slider .slick-slide.slick-current .active-content h4 img,
+  .slick-slider .slick-slide.slick-center .active-content img {
+    border-radius: 10px;
+  }
+  .slick-slider .slick-slide.slick-current .active-content h4 h4,
+  .slick-slider .slick-slide.slick-center .active-content h4 {
+    font-size: 20px;
+  }
+  .slick-slider .slick-slide.slick-current .active-content h4 h5,
+  .slick-slider .slick-slide.slick-center .active-content h5 {
+    font-size: 16px;
+  }
+  .safety-features img {
+    width: 100px;
+  }
+  .safety-features h6 {
+    font-size: 19px;
+  }
+  .montessori-section .absolute-right {
+    width: 75%;
+  }
+  .isce-container h3 {
+    margin-bottom: 25px;
+  }
+  .isce-container h4 {
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+  .isce-container .button-row {
+    margin-bottom: 30px;
+  }
+  .isce-container .button-row .btn {
+    font-size: 18px;
+    width: 155px;
+    height: 50px;
+  }
+  .isce-container .isce-inner-container .isce-box {
+    min-height: auto;
+  }
+  .isce-container .isce-inner-container .isce-box h5 {
+    font-size: 20px;
+  }
+  .two-teachers h4 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .two-teachers img {
+    margin-top: 0;
+  }
+  #contact-us .opening-hours h4 {
+    font-size: 28px !important;
+    margin-bottom: 15px;
+  }
+  #contact-us ul {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+    margin-top: 30px;
+  }
+  #contact-us ul li .timing-box {
+    margin-bottom: 15px;
+  }
+  #contact-us ul li .timing-box h6 {
+    font-size: 18px;
+  }
+  #contact-us ul li .timing-box p {
+    font-size: 14px;
+  }
+  #contact-us address {
+    padding: 20px;
+  }
+  #contact-us address p {
+    font-size: 15px !important;
+    font-weight: normal;
+  }
+  footer h4 {
+    font-size: 24px;
+  }
+  footer a {
+    line-height: 24px;
+    font-size: 18px;
+  }
+  footer p {
+    line-height: 26px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+  h1 {
+    font-size: 45px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  header .navbar-collapse {
+    background: #ffc107;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  header .navbar-collapse .btn {
+    background: #fff;
+    margin-left: 15px;
+    margin-bottom: 20px;
+  }
+  .main-banner {
+    padding-top: 240px;
+    background-size: cover;
+    background-position: right bottom;
+    height: 100vh;
+  }
+  .main-banner h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .main-banner .banner-contact span {
+    font-size: 22px;
+  }
+  .main-banner .enquire-now {
+    margin-top: 40px;
+  }
+  .director-bg .director-box h3 {
+    font-size: 32px;
+  }
+  .director-bg .director-box h3 span {
+    font-size: 24px;
+  }
+  .director-bg .director-box p {
+    font-size: 22px;
+  }
+  .montessori-section p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .montessori-section .absolute-right {
+    width: auto;
+  }
+  .montessori-section h6 {
+    font-size: 19px;
+  }
+  .isce-container .button-row .btn {
+    font-size: 20px;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    line-height: 24px;
+    height: 60px;
+  }
+  .isce-container h4 {
+    font-size: 28px;
+  }
+  .isce-container .isce-inner-container .isce-box {
+    min-height: auto;
+    padding: 20px;
+  }
+  .isce-container .isce-inner-container .isce-box h5 {
+    font-size: 20px;
+  }
+  .isce-container .isce-inner-container .isce-box p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .two-teachers {
+    margin-top: 40px;
+  }
+  .two-teachers h4 {
+    font-size: 24px;
+  }
+  .two-teachers p {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .two-teachers img {
+    margin-top: 0;
+  }
+  .mt-custom {
+    margin-top: 0;
+  }
+  .tech-enabled-classes {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .tech-enabled-classes h3 {
+    font-size: 30px;
+  }
+  .tech-enabled-classes p {
+    font-size: 19px;
+    line-height: 24px;
+    margin-top: 15px;
+  }
+  .tech-enabled-classes .benefits-tips h5 {
+    font-size: 24px;
+  }
+  .tech-enabled-classes .benefits-tips .activity-tags .badge {
+    margin-bottom: 10px;
+  }
+  .safety-features h3 {
+    margin-bottom: 50px;
+    font-size: 30px;
+  }
+  .safety-features img {
+    width: 110px;
+  }
+  .big-font {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .big-font p {
+    margin-bottom: 15px !important;
+  }
+  #contact-us ul li {
+    margin-right: 0;
+  }
+  #contact-us ul li .timing-box {
+    height: 120px;
+    width: 95px;
+  }
+  .darwin-life-bg {
+    background-size: cover;
+    margin-bottom: 0;
+  }
+  .darwin-life-bg p {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .darwin-campus {
+    background-position: center center;
+    padding-bottom: 250px;
+  }
+  .darwin-campus h2 {
+    font-size: 30px;
+  }
+  .darwin-campus p {
+    font-size: 19px;
+    line-height: 25px;
+  }
+  .teacher-darwin {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .teacher-darwin .left-align-img {
+    width: 90%;
+  }
+  .director-info {
+    padding-top: 100px;
+    padding-bottom: 60px;
+  }
+  .why-darwin {
+    padding-top: 20px;
+  }
+  .why-darwin h2 {
+    font-size: 40px;
+  }
+  .why-darwin p {
+    margin-bottom: 20px;
+  }
+  .why-darwin .first-box-mt {
+    margin-top: 0;
+  }
+  .why-darwin .darwin-speciality {
+    margin-bottom: 30px;
+  }
+  .video-blog .carousel .active-video {
+    height: 350px;
+  }
+  .video-blog .blog-events {
+    margin-top: 50px;
+  }
+  .video-blog .blog-events .event-box img {
+    width: 100%;
+  }
+  .gallery-page .nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    width: 100%;
+  }
+  .gallery-page .nav li {
+    margin-right: 0;
+  }
+  .slick-slider .slick-slide.slick-current .active-content h4 h4,
+  .slick-slider .slick-slide.slick-center .active-content h4 {
+    font-size: 20px;
+  }
+  .slick-slider .slick-slide.slick-current .active-content h4 h5,
+  .slick-slider .slick-slide.slick-center .active-content h5 {
+    font-size: 18px;
+  }
+  footer {
+    font-size: 18px;
+  }
+  footer a {
+    line-height: 28px;
+  }
+  footer p {
+    line-height: 28px;
+  }
+  .terms {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .terms a {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 30px !important;
+  }
+  h3 {
+    font-size: 28px !important;
+  }
+  .big-font {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  header h1 {
+    font-size: 40px;
+  }
+  header .navbar-collapse {
+    background: #ffc107;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  header .navbar-collapse .btn {
+    background: #fff;
+    margin-left: 15px;
+    margin-bottom: 20px;
+  }
+  .main-banner {
+    height: auto;
+    padding-top: 250px;
+    background-position: right top;
+    background-color: #fbd24c;
+  }
+  .main-banner h3 {
+    font-size: 22px !important;
+  }
+  .main-banner .enquire-now {
+    padding: 20px;
+    margin-top: 40px;
+  }
+  .main-banner .enquire-now h4 {
+    font-size: 22px;
+  }
+  .main-banner .enquire-now .btn {
+    margin-top: 0;
+  }
+  .main-banner .banner-contact span {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .director-bg .director-box {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .director-bg .director-box::after {
+    display: none;
+  }
+  .director-bg .director-box .director {
+    position: static;
+  }
+  .director-bg .director-box h3 {
+    margin-bottom: 15px;
+  }
+  .director-bg .director-box h3 span {
+    font-size: 20px;
+  }
+  .director-bg .director-box p {
+    font-size: 18px;
+  }
+  .infrastructure h2 {
+    margin-bottom: 40px;
+  }
+  .infrastructure .infrastructure-info {
+    background: rgba(251, 210, 76, 0.1);
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  .infrastructure .infrastructure-info h6 {
+    margin-top: 25px;
+    font-size: 16px;
+  }
+  .infrastructure .infrastructure-info img {
+    width: 100px;
+  }
+  .why-darwin {
+    padding-top: 0 !important;
+  }
+  .why-darwin p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 20px;
+  }
+  .why-darwin .first-box-mt {
+    margin-top: 20px;
+  }
+  .why-darwin .darwin-speciality {
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 30px;
+  }
+  .why-darwin .darwin-speciality div {
+    margin-left: 20px;
+  }
+  .why-darwin .darwin-speciality div h4 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .why-darwin .darwin-speciality div p {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: normal;
+  }
+  .teacher-darwin {
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+  .teacher-darwin .left-align-img {
+    position: static;
+  }
+  .teacher-darwin .container h3 {
+    padding-top: 50px;
+    margin-bottom: 20px;
+  }
+  .teacher-darwin .container p.quote {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .teacher-darwin .container p.quote span {
+    margin-top: 15px;
+  }
+  .director-info {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .director-info p {
+    margin-bottom: 20px !important;
+  }
+  .parents-darwin {
+    padding-bottom: 140px;
+    padding-top: 80px;
+  }
+  .about-heading {
+    font-size: 32px;
+  }
+  #registration .director-box {
+    padding-bottom: 40px;
+  }
+  .admission-modal .modal-content .modal-body h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .admission-modal .modal-content .modal-body p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  }
+  .darwin-life-bg {
+    padding-bottom: 40px;
+  }
+  .darwin-life-bg p {
+    font-size: 18px;
+    line-height: 26px;
+    padding-top: 250px;
+  }
+  .darwin-campus {
+    padding-bottom: 40px;
+    background-image: none;
+    background-color: #fbd24c;
+  }
+  .darwin-campus h2 {
+    margin-bottom: 20px;
+  }
+  .darwin-campus p {
+    font-size: 18px;
+  }
+  .tech-enabled-classes {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-top: 0;
+  }
+  .tech-enabled-classes h3 {
+    font-size: 36px;
+  }
+  .tech-enabled-classes p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 20px;
+  }
+  .tech-enabled-classes .activity-tags .badge {
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 13px 20px;
+  }
+  .tech-enabled-classes .benefits-tips {
+    margin-top: 40px;
+  }
+  .tech-enabled-classes .benefits-tips h5 {
+    font-size: 25px;
+  }
+  .darwin-learning {
+    height: auto;
+    padding-bottom: 80px;
+  }
+  .darwin-learning h1 {
+    padding-top: 250px;
+  }
+  .montessori-section h3 {
+    line-height: 38px;
+    margin-bottom: 20px !important;
+  }
+  .montessori-section p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  }
+  .montessori-section .absolute-right {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .isce-container h3 {
+    margin-bottom: 20px;
+  }
+  .isce-container h4 {
+    font-size: 22px;
+  }
+  .isce-container .button-row {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin-bottom: 50px;
+  }
+  .isce-container .button-row .btn {
+    width: 48%;
+    margin-bottom: 15px;
+    font-size: 18px;
+    height: 50px;
+  }
+  .isce-container .isce-inner-container .isce-box {
+    min-height: auto;
+    padding: 20px;
+  }
+  .isce-container .isce-inner-container .isce-box h5 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .isce-container .isce-inner-container .isce-box p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .two-teachers h4 {
+    font-size: 22px;
+  }
+  .two-teachers p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .safety-features {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .safety-features .col-12 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .safety-features .col-12 img {
+    width: 80px;
+    margin-right: 40px;
+  }
+  .safety-features h3 {
+    margin-bottom: 50px;
+  }
+  .safety-features h6 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    text-align: left;
+  }
+  .safety-features h6 br {
+    display: none;
+  }
+  .montessori-section {
+    text-align: left;
+  }
+  .montessori-section .absolute-right {
+    position: static;
+  }
+  .about-bg h1 {
+    font-size: 34px !important;
+  }
+  .infrastructure,
+  .why-darwin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .infrastructure h2,
+  .why-darwin h2 {
+    font-size: 40px;
+  }
+  .video-blog .carousel .active-video {
+    height: 300px;
+  }
+  .video-blog .carousel .carousel-control-prev,
+  .video-blog .carousel .carousel-control-next {
+    width: 18%;
+    margin-top: 0;
+  }
+  .video-blog .blog-events {
+    margin-top: 40px;
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .video-blog .blog-events .darwin-events h3 span {
+    font-size: 16px;
+  }
+  .video-blog .blog-events .darwin-events a {
+    font-size: 20px;
+  }
+  .video-blog .blog-events .event-box h4 {
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 500;
+  }
+  .video-blog .blog-events .event-box p {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .gallery-page h3 span {
+    line-height: 26px;
+    margin-top: 20px;
+  }
+  .gallery-page .nav {
+    width: 75%;
+  }
+  .gallery-page .nav li {
+    margin-bottom: 10px;
+  }
+  .gallery-page .view-all {
+    font-size: 18px;
+  }
+  #contact-us ul {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  #contact-us ul li {
+    width: 32%;
+    margin-right: 0;
+  }
+  #contact-us ul li .timing-box {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #contact-us .director-box .opening-hours h4 {
+    font-size: 26px;
+  }
+  #contact-us .director-box .opening-hours p {
+    font-size: 18px;
+  }
+  #contact-us address {
+    padding: 20px;
+  }
+  #contact-us address p {
+    font-size: 17px !important;
+    line-height: 22px;
+  }
+  #contact-us address p span {
+    margin-bottom: 10px;
+  }
+  footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  footer a,
+  footer p {
+    font-size: 18px;
+    line-height: 30px !important;
+  }
+  footer h4 {
+    margin-top: 40px;
+  }
+  footer ul {
+    margin-bottom: 0;
+  }
+  footer ul li {
+    line-height: 22px;
+  }
+  .terms {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .terms a {
+    font-size: 15px;
+  }
+  .terms .nav {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-bottom: 5px;
+  }
+  .terms .social-footer a {
+    margin: 0 5px;
+  }
+  .slick-slider .slick-slide {
+    width: 300px !important;
+    margin: 0;
+  }
+  .slick-slider .slick-slide h4 {
+    font-size: 16px !important;
+  }
+  .slick-slider .slick-slide h5 {
+    font-size: 14px !important;
+  }
+  .slick-slider .slick-slide.slick-current,
+  .slick-slider .slick-slide.slick-center {
+    width: 300px !important;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .navbar-brand {
+    width: 60%;
+  }
+  .navbar-brand img {
+    width: 100%;
+  }
+  .about-bg h1 {
+    font-size: 28px !important;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

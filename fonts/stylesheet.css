@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'New York Large';
+    src: url('NewYorkLarge-Heavy.woff2') format('woff2'),
+        url('NewYorkLarge-Heavy.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
