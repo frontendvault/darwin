@@ -116,6 +116,9 @@
   .why-darwin p {
     margin-bottom: 20px;
   }
+  .gallery-page {
+    margin-top: -80px;
+  }
   .gallery-page .nav {
     margin-top: 20px;
   }
@@ -653,6 +656,9 @@
   .video-blog .blog-events .event-box img {
     width: 100%;
   }
+  .gallery-page {
+    margin-top: 50px;
+  }
   .gallery-page .nav {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1030,6 +1036,9 @@
   .video-blog .blog-events .event-box p {
     font-size: 18px;
     line-height: 23px;
+  }
+  .gallery-page {
+    margin-top: 40px;
   }
   .gallery-page h3 span {
     line-height: 26px;

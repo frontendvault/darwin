@@ -509,15 +509,17 @@ header {
 
 // Registration Page
 .registration-bg {
-    background: url(../images/registration-bg.png) no-repeat top center;
+    background: url(../images/registration-bg.png) no-repeat top right;
     padding-top: 326px;
     padding-bottom: 85px;
+    background-size: cover;
 
 
 }
 
 .about-bg {
-    background: url(../images/about-bg.png) no-repeat top center;
+    background: url(../images/about-bg.png) no-repeat top right;
+    background-size: cover;
 }
 
 .contact-bg {
@@ -1046,6 +1048,8 @@ header {
 // Gallery Slider
 
 .gallery-page {
+    margin-top: -50px;
+
     .nav {
         margin-top: 35px;
 
