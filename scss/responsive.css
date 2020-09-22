@@ -611,6 +611,7 @@
   .darwin-life-bg {
     background-size: cover;
     margin-bottom: 0;
+    height: auto;
   }
   .darwin-life-bg h1 {
     font-size: 28px;
@@ -872,6 +873,7 @@
   }
   .darwin-life-bg {
     padding-bottom: 40px;
+    height: auto;
   }
   .darwin-life-bg h1 {
     font-size: 26px;
