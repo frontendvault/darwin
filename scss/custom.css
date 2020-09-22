@@ -807,8 +807,9 @@ header .navbar .btn {
   background-size: cover;
 }
 
-.darwin-learning h1 {
+.darwin-learning p {
   padding-top: 360px;
+  font-style: italic;
 }
 
 .montessori-section {
