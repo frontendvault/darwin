@@ -613,6 +613,10 @@
     margin-bottom: 0;
     height: auto;
   }
+  .darwin-life-bg p {
+    padding-top: 30px;
+    padding-top: 300px;
+  }
   .darwin-life-bg h1 {
     font-size: 28px;
     line-height: 26px;
@@ -873,12 +877,10 @@
   }
   .darwin-life-bg {
     padding-bottom: 40px;
-    height: auto;
   }
   .darwin-life-bg h1 {
     font-size: 26px;
     line-height: 26px;
-    padding-top: 250px;
     font-weight: normal;
   }
   .darwin-life-bg h1 span {

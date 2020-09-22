@@ -700,8 +700,21 @@ header .navbar .btn {
   height: 100vh;
 }
 
-.darwin-life-bg h1 {
+.darwin-life-bg p {
   padding-top: 340px;
+  font-style: italic;
+}
+
+.darwin-life-bg h1 {
+  font-size: 28px;
+  line-height: 40px;
+  font-style: italic;
+  color: #1e2e3e;
+  margin-bottom: 28px;
+}
+
+.darwin-life-bg h1 span {
+  color: #fbd24c;
 }
 
 .darwin-campus {

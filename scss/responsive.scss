@@ -905,6 +905,11 @@
         margin-bottom: 0;
         height: auto;
 
+        p {
+            padding-top: 30px;
+            padding-top: 300px;
+        }
+
         h1 {
             font-size: 28px;
             line-height: 26px;
@@ -1269,12 +1274,11 @@
 
     .darwin-life-bg {
         padding-bottom: 40px;
-        height: auto;
 
         h1 {
             font-size: 26px;
             line-height: 26px;
-            padding-top: 250px;
+            // padding-top: 250px;
             font-weight: normal;
 
             span {
