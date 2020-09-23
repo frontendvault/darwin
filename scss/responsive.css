@@ -886,6 +886,9 @@
   .darwin-life-bg h1 span {
     margin-bottom: 10px;
   }
+  .darwin-life-bg p {
+    padding-top: 200px;
+  }
   .darwin-campus {
     padding-bottom: 40px;
     background-image: none;
