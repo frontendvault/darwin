@@ -879,15 +879,16 @@
     padding-bottom: 40px;
   }
   .darwin-life-bg h1 {
-    font-size: 26px;
-    line-height: 26px;
+    font-size: 32px;
+    line-height: 40px;
     font-weight: normal;
   }
   .darwin-life-bg h1 span {
     margin-bottom: 10px;
   }
   .darwin-life-bg p {
-    padding-top: 200px;
+    font-size: 18px;
+    padding-top: 300px;
   }
   .darwin-campus {
     padding-bottom: 40px;
