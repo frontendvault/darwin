@@ -903,7 +903,7 @@
     margin-bottom: 10px;
   }
   .darwin-life-bg p {
-    font-size: 18px;
+    font-size: 20px !important;
     padding-top: 300px;
   }
   .darwin-campus {
