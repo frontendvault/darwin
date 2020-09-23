@@ -704,6 +704,8 @@ header .navbar .btn {
   padding-top: 300px;
   font-style: italic;
   margin-bottom: 28px;
+  font-size: 28px !important;
+  line-height: 32px !important;
 }
 
 .darwin-life-bg h1 {
