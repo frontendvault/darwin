@@ -819,6 +819,10 @@ header .navbar .btn {
   padding-top: 360px;
 }
 
+.safety-features img {
+  height: 131px;
+}
+
 .montessori-section {
   background: #fff;
   position: relative;
