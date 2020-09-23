@@ -5,6 +5,12 @@
 }
 
 @media only screen and (min-width: 1260px) and (max-width: 1605px) {
+    .tech-enabled-classes {
+        p {
+            font-size: 18px !important;
+        }
+    }
+
     .container {
         max-width: 1320px;
 
@@ -27,374 +33,380 @@
 
         }
 
-        // .darwin-life-bg {
-        //     p {
-        //         padding-top: 300px!important;
-        //     }
-        // }
+
         p {
             font-size: 18px !important;
             line-height: 27px;
 
-        }
 
-    }
-
-
-    @media only screen and (min-width: 1025px) and (max-width: 1369px) {
-
-        .container {
-            p {
-                font-size: 18px !important;
-                line-height: px;
-            }
-
-            h1 {
-                font-size: 50px !important;
-                line-height: 60px;
-            }
-        }
-
-        .darwin-life-bg {
-            p {
-                padding-top: 300px;
-            }
-        }
-    }
-
-    .main-banner {
-        padding-top: 290px;
-        height: 100vh;
-
-        h3 {
-            font-size: 32px !important;
-            margin-bottom: 50px;
-        }
-
-        .banner-contact {
-            span {
-                font-size: 22px;
-            }
-        }
-
-        .enquire-now {
-            padding: 30px;
-
-            .btn {
-                margin-top: 5px;
-                font-size: 18px;
-
-                img {
-                    width: 20px;
-                }
-            }
-        }
-
-    }
-
-
-
-    .director-bg {
-        .director-box {
-            p {
-                font-size: 22px;
-                line-height: 35px;
-            }
-
-            .director {
-                width: 80%;
-            }
         }
 
 
     }
 
-    .director-info {
-        padding-top: 120px;
-        padding-bottom: 100px;
 
+}
+
+
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1369px) {
+
+
+    .container {
         p {
-            margin-bottom: 20px !important;
+            font-size: 24px !important;
+            line-height: px;
+        }
+
+        h1 {
+            font-size: 50px !important;
+            line-height: 60px;
         }
     }
 
 
-    .active-content {
-        h4 {
-            font-size: 19px !important;
-            padding-right: 16px;
-        }
 
-        h5 {
-            font-size: 18px !important;
+    .darwin-life-bg {
+        p {
+            padding-top: 300px;
+        }
+    }
+}
+
+.main-banner {
+    padding-top: 290px;
+    height: 100vh;
+
+    h3 {
+        font-size: 32px !important;
+        margin-bottom: 50px;
+    }
+
+    .banner-contact {
+        span {
+            font-size: 22px;
         }
     }
 
-    .video-blog {
-        .blog-events {
-            height: 900px;
+    .enquire-now {
+        padding: 30px;
 
-            .darwin-events {
-                h3 {
-                    span {
-                        font-size: 20px;
-                    }
-                }
-
-                a {
-                    font-size: 22px;
-                }
-
-
-            }
-
-            .event-box {
-                h4 {
-                    font-size: 22px;
-                    line-height: 28px;
-                    font-weight: 500;
-                }
-
-                p {
-                    font-weight: 400;
-                    line-height: 28px;
-                    font-size: 18px !important;
-                }
-            }
-        }
-
-        .carousel {
-            .active-video {
-                height: 380px;
-            }
-        }
-    }
-
-    .infrastructure {
-        .infrastructure-info {
-            padding: 30px 15px 20px;
-            background: #fefef3;
-            border-top: 10px solid #fef2b1;
-            border-radius: 20px;
-            height: 300px;
+        .btn {
+            margin-top: 5px;
+            font-size: 18px;
 
             img {
-                width: 80px;
-            }
-
-            h6 {
-                font-size: 16px;
-                margin-top: 40px;
+                width: 20px;
             }
         }
     }
 
-    .why-darwin {
-        padding-top: 80px;
-        padding-bottom: 80px;
+}
 
-        .darwin-speciality {
-            padding: 28px;
-            margin-bottom: 30px;
 
-            img {
-                width: 80px;
+
+.director-bg {
+    .director-box {
+        p {
+            font-size: 22px;
+            line-height: 35px;
+        }
+
+        .director {
+            width: 80%;
+        }
+    }
+
+
+}
+
+.director-info {
+    padding-top: 120px;
+    padding-bottom: 100px;
+
+    p {
+        margin-bottom: 20px !important;
+    }
+}
+
+
+.active-content {
+    h4 {
+        font-size: 19px !important;
+        padding-right: 16px;
+    }
+
+    h5 {
+        font-size: 18px !important;
+    }
+}
+
+.video-blog {
+    .blog-events {
+        height: 900px;
+
+        .darwin-events {
+            h3 {
+                span {
+                    font-size: 20px;
+                }
             }
 
+            a {
+                font-size: 22px;
+            }
+
+
+        }
+
+        .event-box {
             h4 {
                 font-size: 22px;
-                margin-bottom: 15px;
+                line-height: 28px;
+                font-weight: 500;
             }
 
             p {
+                font-weight: 400;
+                line-height: 28px;
                 font-size: 18px !important;
-                font-weight: normal;
-                line-height: 22px;
-
-            }
-        }
-
-
-        p {
-            margin-bottom: 20px;
-        }
-    }
-
-    .gallery-page {
-        margin-top: -80px;
-
-        .nav {
-            margin-top: 20px;
-
-            li {
-                margin-right: 15px;
-            }
-        }
-
-        h3 {
-            span {
-                font-size: 19px;
             }
         }
     }
 
-    .teacher-darwin {
-        padding-top: 80px;
-        padding-bottom: 80px;
-
-        h3 {
-            font-size: 28px !important;
-        }
-
-        p.quote {
-            font-size: 16px !important;
-            line-height: 20px;
+    .carousel {
+        .active-video {
+            height: 380px;
         }
     }
+}
 
-    .darwin-campus {
-        padding-bottom: 360px;
-        padding-bottom: 230px;
-        background-position: center center;
-    }
-
-    .mt-custom {
-        margin-top: 0;
-    }
-
-    .tech-enabled-classes {
-
+.infrastructure {
+    .infrastructure-info {
+        padding: 30px 15px 20px;
+        background: #fefef3;
+        border-top: 10px solid #fef2b1;
+        border-radius: 20px;
+        height: 300px;
 
         img {
-            max-width: 80%;
+            width: 80px;
+        }
 
+        h6 {
+            font-size: 16px;
+            margin-top: 40px;
+        }
+    }
+}
+
+.why-darwin {
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    .darwin-speciality {
+        padding: 28px;
+        margin-bottom: 30px;
+
+        img {
+            width: 80px;
+        }
+
+        h4 {
+            font-size: 22px;
+            margin-bottom: 15px;
         }
 
         p {
-            margin-top: 20px;
-        }
+            font-size: 18px !important;
+            font-weight: normal;
+            line-height: 22px;
 
-        .benefits-tips {
-            h5 {
-                font-size: 26px;
-            }
-
-            .activity-tags {
-                .badge {
-                    font-size: 18px;
-                    margin-bottom: 15px;
-                }
-            }
         }
     }
 
-    .safety-features {
-        // img {
-        //     height: 131px;
-        // }
 
-        h6 {
+    p {
+        margin-bottom: 20px;
+    }
+}
+
+.gallery-page {
+    margin-top: -80px;
+
+    .nav {
+        margin-top: 20px;
+
+        li {
+            margin-right: 15px;
+        }
+    }
+
+    h3 {
+        span {
             font-size: 19px;
         }
     }
+}
 
-    .montessori-section {
-        .absolute-right {
-            width: 60%;
+.teacher-darwin {
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    h3 {
+        font-size: 28px !important;
+    }
+
+    p.quote {
+        font-size: 16px !important;
+        line-height: 20px;
+    }
+}
+
+.darwin-campus {
+    padding-bottom: 360px;
+    padding-bottom: 230px;
+    background-position: center center;
+}
+
+.mt-custom {
+    margin-top: 0;
+}
+
+.tech-enabled-classes {
+
+
+    img {
+        max-width: 80%;
+
+    }
+
+    p {
+        margin-top: 20px;
+    }
+
+    .benefits-tips {
+        h5 {
+            font-size: 26px;
+        }
+
+        .activity-tags {
+            .badge {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+}
+
+.safety-features {
+    // img {
+    //     height: 131px;
+    // }
+
+    h6 {
+        font-size: 19px;
+    }
+}
+
+.montessori-section {
+    .absolute-right {
+        width: 60%;
+    }
+}
+
+.isce-container {
+    h3 {
+        margin-bottom: 30px;
+    }
+
+    h4 {
+        font-size: 28px;
+    }
+
+    .button-row {
+        margin-bottom: 50px;
+
+        .btn {
+            width: 180px;
+            height: 50px;
+            font-size: 20px;
+            font-weight: 400;
         }
     }
 
-    .isce-container {
-        h3 {
-            margin-bottom: 30px;
-        }
+    .isce-inner-container {
+        .isce-box {
+            height: 394px;
 
-        h4 {
-            font-size: 28px;
-        }
-
-        .button-row {
-            margin-bottom: 50px;
-
-            .btn {
-                width: 180px;
-                height: 50px;
-                font-size: 20px;
-                font-weight: 400;
+            h5 {
+                font-size: 22px;
             }
         }
+    }
+}
 
-        .isce-inner-container {
-            .isce-box {
-                height: 394px;
+#contact-us {
+    .director-box {}
 
-                h5 {
-                    font-size: 22px;
+    ul {
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            flex: 1;
+
+            .timing-box {
+                width: auto;
+                height: 110px;
+
+                h6 {
+                    font-size: 18px;
+                    margin-bottom: 10px;
+                }
+
+                p {
+                    font-size: 14px !important;
                 }
             }
         }
     }
 
-    #contact-us {
-        .director-box {}
+    address {
+        padding: 30px;
+    }
+}
 
-        ul {
-            display: flex;
-            justify-content: space-between;
+.slick-slide {
+    img {
+        border-radius: 15px;
+    }
+}
 
-            li {
-                flex: 1;
-
-                .timing-box {
-                    width: auto;
-                    height: 110px;
-
-                    h6 {
-                        font-size: 18px;
-                        margin-bottom: 10px;
-                    }
-
-                    p {
-                        font-size: 14px !important;
-                    }
-                }
-            }
-        }
-
-        address {
-            padding: 30px;
+#registration {
+    .director-box {
+        .director {
+            width: 520px;
         }
     }
+}
 
-    .slick-slide {
-        img {
-            border-radius: 15px;
-        }
+footer {
+    font-size: 18px;
+
+    a {
+        line-height: 35px;
     }
+}
 
-    #registration {
-        .director-box {
-            .director {
-                width: 520px;
-            }
-        }
+.terms {
+    padding: 15px 0;
+
+    a {
+        font-size: 16px;
     }
-
-    footer {
-        font-size: 18px;
-
-        a {
-            line-height: 35px;
-        }
-    }
-
-    .terms {
-        padding: 15px 0;
-
-        a {
-            font-size: 16px;
-        }
-    }
+}
 }
 
 // iPad Landscape 

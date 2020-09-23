@@ -5,24 +5,27 @@
 }
 
 @media only screen and (min-width: 1260px) and (max-width: 1605px) {
-  .container {
+  .tech-enabled-classes p {
+    font-size: 18px !important;
+  }
+  .tech-enabled-classes .container {
     max-width: 1320px;
   }
-  .container h1 {
+  .tech-enabled-classes .container h1 {
     font-size: 50px !important;
     line-height: 60px;
   }
-  .container h2 {
+  .tech-enabled-classes .container h2 {
     font-size: 35px !important;
   }
-  .container h3 {
+  .tech-enabled-classes .container h3 {
     font-size: 30px !important;
   }
-  .container p {
+  .tech-enabled-classes .container p {
     font-size: 18px;
     line-height: 27px;
   }
-  .container p {
+  .tech-enabled-classes .container p {
     font-size: 18px !important;
     line-height: 27px;
   }
@@ -30,7 +33,7 @@
 
 @media only screen and (min-width: 1260px) and (max-width: 1605px) and (min-width: 1025px) and (max-width: 1369px) {
   .container p {
-    font-size: 18px !important;
+    font-size: 24px !important;
     line-height: px;
   }
   .container h1 {
