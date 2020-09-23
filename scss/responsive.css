@@ -25,6 +25,10 @@
 }
 
 @media only screen and (min-width: 1260px) and (max-width: 1605px) and (min-width: 1025px) and (max-width: 1369px) {
+  .container p {
+    font-size: 18px !important;
+    line-height: 32px;
+  }
   .container h1 {
     font-size: 50px !important;
     line-height: 60px;
