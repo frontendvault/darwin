@@ -874,6 +874,7 @@
   }
   .darwin-life-bg {
     padding-bottom: 40px;
+    height: auto;
   }
   .darwin-life-bg h1 {
     font-size: 32px;
