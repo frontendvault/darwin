@@ -4,7 +4,7 @@
     }
 }
 
-@media only screen and (min-width: 1320px) and (max-width: 1605px) {
+@media only screen and (min-width: 1260px) and (max-width: 1605px) {
     .container {
         max-width: 1320px;
 
@@ -22,12 +22,38 @@
         }
 
         p {
-            font-size: 25px !important;
+            font-size: 28px !important;
             line-height: 32px;
         }
 
+        // .darwin-life-bg {
+        //     p {
+        //         padding-top: 300px!important;
+        //     }
+        // }
 
 
+    }
+
+    @media only screen and (min-width: 1025px) and (max-width: 1369px) {
+
+        .container {
+            p {
+                font-size: 28px !important;
+                line-height: 32px;
+            }
+
+            h1 {
+                font-size: 50px !important;
+                line-height: 60px;
+            }
+        }
+
+        .darwin-life-bg {
+            p {
+                padding-top: 300px;
+            }
+        }
     }
 
     .main-banner {
