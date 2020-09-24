@@ -471,7 +471,7 @@ header .navbar .btn {
 
 .insta-icon {
   width: 29px;
-  opacity: .7;
+  opacity: 0.7;
 }
 
 #registration form .form-group {
@@ -849,6 +849,7 @@ header .navbar .btn {
   position: absolute;
   right: 0;
   width: 60%;
+  height: auto;
 }
 
 .montessori-section .darwin-benefits h4 {
@@ -939,7 +940,7 @@ header .navbar .btn {
 }
 
 .isce-container .isce-inner-container .isce-box p {
-  font-size: 20px;
+  font-size: 20px !important;
   line-height: 28px;
 }
 
@@ -1115,7 +1116,7 @@ header .navbar .btn {
 
 .slick-prev {
   left: 10px;
-  content: "";
+  content: '';
   background-image: url(../images/slick-carousel-left-arrow.svg);
   background-repeat: no-repeat;
 }
